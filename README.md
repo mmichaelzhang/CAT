@@ -8,7 +8,7 @@ This is the origin Pytorch implementation of CAT in the following paper:
 [CAT: Beyond Efficient Transformer for Content-Aware AnomalyDetection in Event Sequences].
 
 <p align="center">
-<img src=".\img\Architecture.PNG" height = "360" alt="" align=center />
+<img src=".\img\Architecture.PNG" height = "300" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> The architecture of CAT.
 </p>
