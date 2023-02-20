@@ -32,6 +32,8 @@ pip install -r requirements.txt
 The log datasets used in the paper can be found in the repo [loghub](https://github.com/logpai/loghub).
 In this repository, an small sample of the HDFS dataset is proposed for a quick hands-up.
 
+For generating the Log template files, please refer to the official implementation repo of [logparser](https://github.com/logpai/logparser).
+
 
 ## Usage
 
